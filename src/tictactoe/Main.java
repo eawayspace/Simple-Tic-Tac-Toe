@@ -197,5 +197,7 @@ public class Main {
                 scanner.nextLine();
             }
         }
+
+        scanner.close();
     }
 }
